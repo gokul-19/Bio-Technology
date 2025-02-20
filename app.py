@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure API Key
-genai.configure(api_key="YOUR_GOOGLE_API_KEY")
+genai.configure(api_key="AIzaSyA0gFVSeBYBoexZs3BWZNvyiTTU0e8UcDg")
 
 # System Prompt
 sys_prompt = """You are a helpful biotechnology tutor. You can only resolve biotechnology-related queries. 
