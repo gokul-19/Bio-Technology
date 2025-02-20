@@ -49,7 +49,7 @@ Click the "Generate Response" button to receive an AI-generated answer.
 The AI model is initialized with a system prompt that instructs it to act as a helpful data science tutor. It is programmed to handle only data science-related queries and will politely redirect users if they ask unrelated questions.
 
 ## Link
-App:
+App:https://bio-technology-pyn4ad33d5b3sp7b8bgzqn.streamlit.app/
 
 
 ## Contributing
